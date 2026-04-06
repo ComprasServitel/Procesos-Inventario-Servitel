@@ -1,10 +1,3 @@
-# Procesos-Inventario-Servitel
-<div align="center">
-  <h1>MANUAL DE PROCESOS: GESTIÓN DE INVENTARIO Y COMPRAS</h1>
-  <p><strong>Servitel Holding</strong></p>
-</div>
-
----
 <!DOCTYPE html>
 <html lang="es">
 <head>
